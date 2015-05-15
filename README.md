@@ -48,3 +48,5 @@ Zone substation data - regulatory obligation as per [AEMC rule 2014 No.1](http:/
 [3] Citipower: https://www.powercor.com.au/about-us/electricity-networks/zone-substation-reports/
 
 [4] Jemena: http://jemena.com.au/industry/electricity/zone-substation-information/
+
+[5] AEMO - Transmission Connection Point Forecasting Report for Victoria: http://www.aemo.com.au/Electricity/Planning/Forecasting/AEMO-Transmission-Connection-Point-Forecasting/Transmission-Connection-Point-Forecasting-Report-for-Victoria
